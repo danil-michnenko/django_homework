@@ -1,0 +1,35 @@
+.H {
+    color:rgb(6, 255, 43);
+    size: 26px;
+    font-family: Arial;
+}
+
+.P {
+    color:rgb(57, 136, 54);
+    size: 14px;
+    font-family: Arial;
+}
+
+.A {
+    color:rgb(57, 136, 54);
+    size: 14px;
+    font-family: Arial;
+}
+
+a:checked {
+    color:rgb(0, 75, 5);
+    size: 14px;
+    font-family: Arial;
+}
+
+a:active {
+    color:rgb(0, 75, 5);
+    size: 14px;
+    font-family: Arial;
+}
+
+a:any-link {
+    color:rgb(0, 75, 5);
+    size: 14px;
+    font-family: Arial;
+}
